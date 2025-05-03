@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀I'm currently working on Khoj(React Native Application)<br>👯‍♂️I'm currently looking to collaborat on Web Scraping with Next.js,Hydration<br>🤝 looking for help with Solidity and smart contracts<br>🪴learning about NLP and vercel ai SDK<br>💬ask me about MERN stack
+🚀I'm currently working on Football_analytics with roboflow<br>👯‍♂️I'm currently looking to collaborat on Web Scraping with Next.js,Hydration<br>🤝 looking for help with Solidity and smart contracts<br>🪴learning about NLP and vercel ai SDK<br>💬ask me about MERN stack
 
 
 ## 🌐 Socials:
